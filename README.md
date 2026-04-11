@@ -38,6 +38,10 @@ Raw sensor signal
 | Thermal compensation | 2.71 | ~4.1 |
 | Full pipeline | **1.18** | ~2.3 |
 
+## Simulation Output
+
+![Grafik 1](grafik1_gurultu_sicaklik.png)
+![Grafik 2](grafik2_filtreleme_yakinsamasi.png)
 ---
 
 ## Tech Stack
