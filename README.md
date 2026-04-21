@@ -1,8 +1,6 @@
 # Dielectric Sensor Calibration Model
 **Capacitive Soil Moisture Sensor — Thermal Drift Compensation & Signal Filtering**
 
-Developed as a technical portfolio piece for Agrinoms R&D Department (Çanakkale Teknopark)
-
 ---
 
 ## Overview
